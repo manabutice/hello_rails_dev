@@ -1,24 +1,19 @@
-# README
+# ruby on railsパーフェクトガイド
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+バージョン
 
-Things you may want to cover:
+* Ruby version　2.7.1
 
-* Ruby version
+* ruby on rails 6.0.3
 
-* System dependencies
+* Git (https://git-scm.com/)
 
-* Configuration
+* SQLite3 (https://www.sqlite.org/index.html)
 
-* Database creation
+* Node.js 10.13.0 blE (https://nodejs.org/ja/)
 
-* Database initialization
+* Yarn (https://classic.yarnpkg.com/ja/)
 
-* How to run the test suite
+* ImageMagick (https://imagemagick.org/) (#1)
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Docker/Docker Compose (https://docs.docker.com/)
